@@ -50,7 +50,7 @@ Thumbs.db
 *.png
 
 # Cucumber Report
-cucumber-reports/
+reports/
 json-logs/
 cypress/videos/
 cypress/screenshots/
