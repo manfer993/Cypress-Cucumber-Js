@@ -1,16 +1,24 @@
 const report = require("multiple-cucumber-html-reporter");
 report.generate({
-  jsonDir: "jsonlogs", // ** Path of .json file **//
-  reportPath: "./reports/cucumber-htmlreport.html",
+  jsonDir: "json-logs", // ** Path of .json file **//
+  reportPath: "./cucumber-reports/cucumber-htmlreport.html",
   metadata: {
     browser: {
       name: "chrome",
-      version: "XX",
+      version: "109.0",
     },
     device: "Local test machine",
     platform: {
-      name: "Windows",
-      version: "11",
+      name: "osx",
+      version: "Monterey",
     },
+  },
+  reportName: "PoC report",
+  customData: {
+    title: "Run Info",
+    data: [
+      {label: 'Project', value: 'Cypress Cucumber PoC'},
+      {label: 'Environment', value: 'QA Automation'}
+    ],
   },
 });
