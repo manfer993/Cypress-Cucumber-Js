@@ -47,6 +47,10 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+*.png
 
 # Cucumber Report
-reports/
+cucumber-reports/
+json-logs/
+cypress/videos/
+cypress/screenshots/
