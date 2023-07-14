@@ -27,7 +27,7 @@ The neccesary scripts to run the tests are in the `cypress/package.json` folder.
 
 ### Setup
 
-      1.Download/clone the project. 
+      1.Download/clone the project.
       2.Run command npm install.
       3.Run one of the indicated scripts.
 
@@ -37,8 +37,8 @@ The neccesary scripts to run the tests are in the `cypress/package.json` folder.
 * Cucumber was used to write the tests in conjunction with the Page Object Model design pattern.
 * Tests are located inside the `cypress/e2e` folder.
 * The `cypress/fixtures` folder contains data used throughout the framework.
-* The neccesary scripts to run the tests are in the `cypress/package.json` folder.
-  
+* The necessary scripts to run the tests are in the `cypress/package.json` folder.
+
 ## Resources
 
 * [Node.js](https://nodejs.org/en/ "Node.js")

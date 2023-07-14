@@ -3,6 +3,7 @@
         "ajhyndman.jslint",
         "alexkrechik.cucumberautocomplete",
         "streetsidesoftware.code-spell-checker",
-        "adpyke.codesnap"
+        "adpyke.codesnap",
+        "yzhang.markdown-all-in-one"
     ]
 }
