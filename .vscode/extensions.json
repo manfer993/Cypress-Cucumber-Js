@@ -1,9 +1,9 @@
 {
     "recommendations": [
-        "ajhyndman.jslint",
         "alexkrechik.cucumberautocomplete",
         "streetsidesoftware.code-spell-checker",
         "adpyke.codesnap",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "dbaeumer.vscode-eslint"
     ]
 }
