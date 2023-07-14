@@ -1,4 +1,4 @@
-[Jira Ticket](https://jira/ticket_number)
+[Jira_number](https://jira/ticket_number)
 
 ## Description
 
@@ -20,3 +20,5 @@
 <-- Add additional notes !-->
 
 ## Screenshots
+
+<-- Add necessary screenshots !-->
