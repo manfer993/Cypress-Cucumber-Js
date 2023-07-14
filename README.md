@@ -45,3 +45,4 @@ The necessary scripts to run the tests are in the `cypress/package.json` folder.
 * [Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress "Cypress Documentation")
 * [Cucumber Documentation](https://cucumber.io/ "Cucumber Documentation")
 * [Allure Documentation](https://docs.qameta.io/allure/ "Allure Documentation")
+* 
