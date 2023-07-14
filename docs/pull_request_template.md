@@ -1,4 +1,4 @@
-[Jira Ticket](https://jira/ticket_number)
+[Jira_number](https://jira/ticket_number)
 
 ## Description
 
