@@ -15,7 +15,7 @@ In this project, automated tests are carried out on the web application <https:/
 
 ### Scripts
 
-The neccesary scripts to run the tests are in the `cypress/package.json` folder.
+The necessary scripts to run the tests are in the `cypress/package.json` folder.
 
 * The scripts are:
 
