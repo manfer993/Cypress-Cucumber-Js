@@ -1,4 +1,4 @@
-import loginLocators from '../locators/loginLocators.js';
+import loginLocators from "../locators/loginLocators.js";
 
 class LoginPage {
   #elements = {

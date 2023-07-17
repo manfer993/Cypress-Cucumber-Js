@@ -1,3 +1,3 @@
 module.exports = {
-    pageTitle: '.title'
-}
+  pageTitle: ".title",
+};

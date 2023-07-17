@@ -12,7 +12,7 @@ async function setupNodeEvents(on, config) {
     "file:preprocessor",
     createBundler({
       plugins: [createEsbuildPlugin.default(config)],
-    })
+    }),
   );
   allureWriter(on, config);
 

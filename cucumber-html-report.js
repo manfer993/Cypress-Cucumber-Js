@@ -17,8 +17,8 @@ report.generate({
   customData: {
     title: "Run Info",
     data: [
-      {label: 'Project', value: 'Cypress Cucumber PoC'},
-      {label: 'Environment', value: 'QA Automation'}
+      { label: "Project", value: "Cypress Cucumber PoC" },
+      { label: "Environment", value: "QA Automation" },
     ],
   },
 });
