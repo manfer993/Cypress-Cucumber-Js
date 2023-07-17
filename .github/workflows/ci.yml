@@ -1,13 +1,14 @@
 name: End-to-end tests
 on: [push]
 jobs:
-  cypress-run:
-    runs-on: ubuntu-22.04
+  cypress-test:
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Git Code
         uses: actions/checkout@v3
-      - name: Cypress run
+
+      - name: Run Cypress test cases
         uses: cypress-io/github-action@v5
         with:
-          component: true
+          command: npm run cypress:execution
           browser: chrome
