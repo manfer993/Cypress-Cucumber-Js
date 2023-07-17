@@ -1,5 +1,6 @@
 ## 1.0.0 (2023-07-17)
 
+- docs: :memo: add change log documentation ([ec96e4b](https://github.com/manfer993/Cypress-Cucumber-Js/commit/ec96e4b))
 - style: :package: add new husky validator to commit convention ([f92226e](https://github.com/manfer993/Cypress-Cucumber-Js/commit/f92226e))
 - add cypress files ([3cd8e2b](https://github.com/manfer993/Cypress-Cucumber-Js/commit/3cd8e2b))
 - add cypress setup ([9d954e5](https://github.com/manfer993/Cypress-Cucumber-Js/commit/9d954e5))
